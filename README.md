@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shokhjakhon Shermatov (@shokh-uzb).
 - 👀 I’m interested in technically everything except photography.
-- 🌱 I’m currently learning web developing.
+- 🌱 I’m currently learning web developing and C in cs50.
 - 💞️ I’m looking to collaborate on internships.
 - 📫 Reach me on telegram t.me/theshokhjakhon
 
