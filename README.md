@@ -25,7 +25,7 @@ const shokhjakhon = {
         database: ["MongoDB", "MySQL", "Firebase"],
         security: ["Vulnerability Assessment", "Smart Contract Analysis", "VAPT"],
         blockchain: ["Ethereum", "BSC", "Smart Contract Development"],
-        cloud: ["GCP" "AWS", "Azure", "Vercel"],
+        cloud: ["GCP", "AWS", "Azure", "Vercel"],
         iot: ["ESP32", "ThingSpeak", "Real-time Data Logging"],
         tools: ["Git", "Docker", "Postman", "Burp Suite"]
     }
@@ -110,7 +110,7 @@ const shokhjakhon = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shokh-uzb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shokh-uzb&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shokh-uzb&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -171,7 +171,6 @@ class CurrentGoals:
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shokhjakhonshermtov@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shokhcoderv.netlify.app)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/coderv)
-
 
 </div>
 
